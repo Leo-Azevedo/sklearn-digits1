@@ -28,8 +28,9 @@ clf3.fit(digits.data[::2], digits.target[::2])
 results3 = clf3.predict(digits.data[1::2])
 score3 = clf3.score(digits.data[1::2], digits.target[1::2])
 
-names = ["SVC", "KNeighbors", "Ensemble"]
-values = [score1, score2, score3]
+#### Plotting Results ####
+names = ["SVC", "KNeighbors", "Ensemble"] #X Labels
+values = [score1, score2, score3] #Actual Values
 
 print(values) #Debug print. Prints each classifier's score
 
