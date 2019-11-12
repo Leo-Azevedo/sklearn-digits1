@@ -2,7 +2,7 @@
 
 [![SKLearnLogo](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)](https://scikit-learn.org/)
 
-:memo: Testes criados com a framework SKLearn. Compara três algorítmos de predição (SVC, KNeighbors and Ensemble).
+Testes criados com a framework SKLearn. Compara três algorítmos de predição (SVC, KNeighbors and Ensemble).
 
 ## Executando o Código
 
