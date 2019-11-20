@@ -6,8 +6,15 @@ Testes criados com a framework SKLearn. Compara três algorítmos de predição 
 
 ## Executando o Código
 
-Para executar o código, é necessário que estejam instaladas todas as dependências necessárias para rodar o SKLearn, e seus datasets.
+Para executar o código, é necessário que estejam instaladas todas as dependências necessárias para rodar o SKLearn, e seus devidos datasets.
 (https://scikit-learn.org/stable/install.html)
+
+Todo o código foi construído na plataforma IDLE, com auxílio do editor de texto Sublime Text 3. Então para garantir uma execução limpa recomenda-se o uso da plataforma IDLE.
+
+## Utilizando o Idle
+
+- 1º Passo: Deve ser iniciado o IDLE com todos os plugins requisitados pela plataforma SKLearn
+- 2º Passo: Abrir o código fonte através do IDLE [![Passo02](https://imgur.com/zE3Pz3Y.png)]
 
 ```python
 
