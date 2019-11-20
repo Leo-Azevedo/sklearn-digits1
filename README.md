@@ -15,7 +15,7 @@ Todo o código foi construído na plataforma IDLE, com auxílio do editor de tex
 
 - 1º Passo: Deve ser iniciado o IDLE com todos os plugins requisitados pela plataforma SKLearn
 - 2º Passo: Abrir o código fonte através do IDLE
-[(https://imgur.com/n21jReA.png)]
+[![Passo2](https://imgur.com/n21jReA.png)](https://imgur.com/n21jReA.png)]
 
 ```python
 
