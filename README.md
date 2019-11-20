@@ -13,10 +13,14 @@ Todo o código foi construído na plataforma IDLE, com auxílio do editor de tex
 
 ## Utilizando o Idle
 
-- 1º Passo: Deve ser iniciado o IDLE com todos os plugins requisitados pela plataforma SKLearn
-- 2º Passo: Abrir o código fonte através do IDLE
+- 1º Passo: Deve ser iniciado o IDLE com todos os plugins requisitados pela plataforma SKLearn;
+- 2º Passo: Abrir o código fonte através do IDLE;
 
 [![Passo2](https://imgur.com/n21jReA.png)](https://imgur.com/n21jReA.png)
+
+- 3º Passo: Para executar o código, basta pressionar F5;
+- 4º Passo: Ao executar o código, será impresso no terminal uma cópia dos scores de cada algorítmo em forma de array
+, e será aberta uma janela separadamente com o gráfico utilizado no relatório oficial.
 
 ```python
 
