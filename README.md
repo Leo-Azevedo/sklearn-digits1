@@ -22,6 +22,9 @@ Todo o código foi construído na plataforma IDLE, com auxílio do editor de tex
 - 4º Passo: Ao executar o código, será impresso no terminal uma cópia dos scores de cada algorítmo em forma de array
 , e será aberta uma janela separadamente com o gráfico utilizado no relatório oficial.
 
+[![Passo3](https://imgur.com/NAj36L4.png)](https://imgur.com/NAj36L4.png)
+[![Passo4](https://imgur.com/8boocLi.png)](https://imgur.com/8boocLi.png)
+
 ```python
 
 ```
